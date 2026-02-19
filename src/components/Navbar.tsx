@@ -20,12 +20,11 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
-              <Sparkles className="w-6 h-6 text-white" />
-            </div>
-            <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              SparkleRunner
-            </span>
+            <img
+              src="/srt-logo.png"
+              alt="SparkleRunner"
+              className="h-10"
+            />
           </Link>
 
           {/* Desktop Navigation */}
