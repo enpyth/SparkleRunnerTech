@@ -87,9 +87,10 @@ export default function Home() {
             </h1>
 
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-              Empowering every elderly Australian to lead an independent life with a touch of warmth.
-              Our clinical-grade AI companionship system addresses loneliness, cognitive health,
-              healthcare shortage, and intergenerational communication.
+              SparkleRunnerTech is an AgeTech company headquartered in Adelaide, South Australia.
+              We empower elderly Australians to live independently with warmth and dignity through our
+              clinical-grade AI companionship system, which addresses loneliness, cognitive health,
+              healthcare shortages, and intergenerational communication.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
